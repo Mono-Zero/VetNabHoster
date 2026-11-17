@@ -5,7 +5,7 @@
 VetNab is an Android QR scanner that works completely offline. It scans a code, weighs what it finds, and shows you a risk score with a plain-language explanation of each finding.
 
 **Download page:** https://vetnab.vercel.app
-**Direct download:** [VetNab.apk]([VetNab.apk](https://github.com/Mono-Zero/VetNabHoster/releases/download/VetNab/VetNab.apk)
+**Direct download:** [VetNab.apk]([VetNab.apk](https://github.com/Mono-Zero/VetNabHoster/releases/download/VetNab/VetNab.apk))
 
 This repo only hosts the download page and the APK. VetNab's source code isn't public.
 
